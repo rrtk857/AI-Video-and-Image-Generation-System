@@ -11,7 +11,6 @@ Welcome to the AI Video and Image Generation System! This project generates moti
 
 ---
 
----
 
 ## Setup Instructions
 
@@ -72,7 +71,6 @@ IMAGE_API_KEY = "your_api_key"
 
 ---
 
----
 
 ## Contribution Guidelines
 1. Fork the repository.
