@@ -1,0 +1,8 @@
+# requirements.txt
+
+# Web framework
+Flask==2.3.3
+
+# Database
+SQLAlchemy==2.0.5
+
