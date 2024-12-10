@@ -30,7 +30,6 @@ pip install -r requirements.txt
 
 ### Step 3: Update Configuration
 - Add API keys for video and image generation in `main.py`.
-- Update email credentials or notification configurations in `utils.py`.
 
 ### Step 4: Run the System
 1. Start the video and image generation service:
